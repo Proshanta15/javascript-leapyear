@@ -9,7 +9,5 @@ function checkLeapYear(year) {
     }
 }
 
-// take input
-const year = prompt('Enter a year:');
 
 checkLeapYear(year);
